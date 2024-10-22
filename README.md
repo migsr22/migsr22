@@ -87,7 +87,6 @@ class MiguelRocha:
 
 ## 🏆 Achievements
 - 🎯 Led development of credit risk models saving several $MM for clients
-- 🏅 3rd Place in Toyota's 2018 Annual Innovation Fair
 - 🚀 Successfully deployed ML models on various cloud platforms
 - 📊 Developed decision engines resulting in $28MM annual savings
 
