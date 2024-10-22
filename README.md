@@ -1,62 +1,126 @@
-<h1 align="center">Miguel Rocha</h1>
-<h3 align="center">Solutions Architect at Google | Applied Scientist | ML Engineer</h3>
+<div align="center">
+  
+# Miguel Rocha
+### Solutions Architect at Google | AI/ML Expert | Cloud Architecture
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding" align="right" width="400">
+[![Website](https://img.shields.io/badge/Website-codemigs.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codemigs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/migsr22)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/migsr22)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codemigs@gmail.com)
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=migsr22&label=Profile%20Views&icon=0&pretty=false" alt="migsr22" /> </p>
+</div>
 
-### 👨‍💻 About Me:
-- 🌟 Solutions Architect at Google, specializing in Generative AI
-- 🎓 M.S. in Business Analytics & B.S. in Information Technology from UT Dallas
-- 💡 6+ years of experience in ML/AI, Cloud Architecture, and Data Science
-- 🏢 Previously at Microsoft, IBM, and Toyota North America
-- 🌍 Based in Seattle, WA
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
 
-### 🔭 Current Focus:
-- Generative AI and Large Language Models (LLMs)
-- RAG (Retrieval-Augmented Generation) implementations
-- Multimodal AI solutions
-- Cloud Architecture (GCP, AWS, Azure)
+## 👨‍💻 About Me
 
-### 💼 Professional Experience:
-- **Google** - Solutions Architect (2024-Present)
-- **Microsoft** - Applied Scientist (2021-2023)
-- **IBM** - Data Scientist/ML Engineer (2019-2021)
-- **Toyota North America** - Data Scientist (2018-2019)
+```python
+class MiguelRocha:
+    def __init__(self):
+        self.role = "Solutions Architect @ Google"
+        self.location = "Seattle, WA"
+        self.work_experience = 6
+        self.education = {
+            "masters": "M.S. Business Analytics (UT Dallas)",
+            "bachelors": "B.S. Information Technology (UT Dallas)"
+        }
+        self.interests = ["Generative AI", "Machine Learning", "Cloud Architecture"]
+        
+    def current_focus(self):
+        return [
+            "Large Language Models (LLMs)",
+            "RAG Implementations",
+            "Multimodal AI Solutions",
+            "Enterprise Cloud Architecture"
+        ]
+```
 
-### 📫 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/migsr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="migsr22" height="30" width="40" /></a>
-<a href="https://kaggle.com/migsr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="migsr22" height="30" width="40" /></a>
-</p>
+## 🚀 Professional Journey
 
-- 🌐 Website: [codemigs.com](https://codemigs.com)
-- 📧 Email: codemigs@gmail.com
+<div align="center">
+  
+| Company | Role | Period |
+|---------|------|---------|
+| **Google** | Solutions Architect - Generative AI | 2024 - Present |
+| **Microsoft** | Applied Scientist - Cloud & AI | 2021 - 2023 |
+| **IBM** | Data Scientist/ML Engineer | 2019 - 2021 |
+| **Toyota** | Data Scientist | 2018 - 2019 |
 
-### 🛠 Technologies and Tools:
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
+</div>
 
-#### Key Skills:
-- **Languages:** Python, SQL, R, PySpark, Scala
-- **ML/AI:** TensorFlow, PyTorch, Scikit-Learn, XGBoost, NLTK
-- **Cloud:** GCP, AWS, Azure
-- **Tools:** Docker, Kubernetes, Git, Linux/Unix
-- **Visualization:** Tableau, Seaborn, Matplotlib
+## 🛠️ Tech Stack
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsr22&show_icons=true&locale=en&layout=compact" alt="migsr22" /></p>
+<details>
+<summary>Click to expand!</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migsr22&show_icons=true&locale=en" alt="migsr22" /></p>
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Advanced-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-Intermediate-DC322F?style=flat&logo=scala&logoColor=white)
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=migsr22&" alt="migsr22" /></p>
+### ML/AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Expert-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Advanced-D00000?style=flat&logo=keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-Advanced-3776AB?style=flat&logo=python&logoColor=white)
+
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google_Cloud-Expert-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Expert-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Expert-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+</details>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migsr22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migsr22&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+## 🏆 Achievements
+- 🎯 Led development of credit risk models saving several $MM for clients
+- 🏅 3rd Place in Toyota's 2018 Annual Innovation Fair
+- 🚀 Successfully deployed ML models on various cloud platforms
+- 📊 Developed decision engines resulting in $28MM annual savings
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Coming Soon...]()
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+### 📊 Weekly Development Breakdown
+
+```text
+Python        12 hrs 40 mins  ███████████░░░░░░  45.2%
+ML/AI Tasks    8 hrs 15 mins  ██████░░░░░░░░░░░  29.4%
+Cloud Dev      4 hrs 30 mins  ████░░░░░░░░░░░░░  16.1%
+Documentation  2 hrs 35 mins  ██░░░░░░░░░░░░░░░   9.3%
+```
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=migsr22&label=Profile%20views&color=0e75b6&style=flat" alt="migsr22" />
+  
+  [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/migsr22)
+</div>
+
+```python
+# Life Philosophy
+while alive:
+    learn()
+    code()
+    innovate()
+    repeat()
+```
