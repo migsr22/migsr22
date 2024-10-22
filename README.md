@@ -28,7 +28,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/migsr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="migsr22" height="30" width="40" /></a>
 <a href="https://kaggle.com/migsr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="migsr22" height="30" width="40" /></a>
-<a href="https://twitter.com/migsr22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="migsr22" height="30" width="40" /></a>
 </p>
 
 - 🌐 Website: [codemigs.com](https://codemigs.com)
