@@ -109,13 +109,6 @@ Documentation  2 hrs 35 mins  ██░░░░░░░░░░░░░░�
 
 </div>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=migsr22&label=Profile%20views&color=0e75b6&style=flat" alt="migsr22" />
-  
-  [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/migsr22)
-</div>
-
 ```python
 # Life Philosophy
 while alive:
