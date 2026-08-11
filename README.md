@@ -36,4 +36,17 @@ Previously, I held applied science, machine learning, and data science roles at 
 
 **Languages:** Python, SQL, PySpark, Scala, R  
 **AI/ML:** TensorFlow, PyTorch, scikit-learn, Hugging Face, LangChain, LlamaIndex  
-**Cloud & Infrastructure:** Google Cloud, AWS, Azure, Docker, Kubernetes, Ray, Triton
+**Cloud & Infrastructure:** Google Cloud, AWS, Azure, Docker, Kubernetes, Ray, Triton  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/migsr22">
+    <img src="https://github-readme-stats.vercel.app/api?username=migsr22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Miguel's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/migsr22">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migsr22&layout=compact&theme=dark&hide_progress=true" alt="Top Languages" width="48%" />
+  </a>
+</p>
